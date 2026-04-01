@@ -1,57 +1,79 @@
-# 👋 Hi, I'm Mujeeb Sultan
+# 📱 AI-Based Product Recommender App
 
-🎓 BS Information Technology — University of Management & Technology (UMT)  
-💻 Aspiring **Software Quality Assurance & Test Automation Engineer**  
-🔍 Passionate about building **reliable and well-tested software**
+An intelligent mobile application built using Flutter that recommends electronic products based on user preferences using smart filtering and AI-inspired logic.
 
 ---
 
-## 🧠 Currently Learning
+## 🚀 Features
 
-🧪 Manual Testing  
-⚡ API Testing with **Postman**  
-🤖 Automation Testing (**Selenium & Playwright**)  
-🗄 Database Testing with **SQL**  
-🔧 Git & GitHub Workflows
-
----
-
-## 🚀 Projects
-
-📚 **Learning Management System**  
-Web-based LMS with course enrollment, assignments, and role-based access.
-
-🌊 **Smart Flood Detection System**  
-Cisco Packet Tracer simulation of an IoT flood alert network.
-
-🧠 **AI Product Recommender (FYP)**  
-AI-powered electronics recommendation system with NLP and smart filtering.
-
-💾 **C++ + MySQL Management System**  
-Mini system performing CRUD database operations.
+* 🔍 Personalized product recommendations
+* 🧠 Smart filtering based on user input
+* 🌐 Multilingual support (English / Urdu)
+* ⚡ Fast and responsive UI
+* 📊 Dynamic data handling
+* 🔐 Clean and scalable architecture
 
 ---
 
 ## 🛠 Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+* 📱 Flutter (UI Development)
+* 🎯 Dart (Programming Language)
+* 🔗 REST APIs (Data Integration)
+* 🗄 Database (MySQL / Firebase - depending on your use)
 
 ---
 
+## 📸 Screenshots
 
-## 🌐 Connect With Me
+<!-- Add your app screenshots here -->
 
-📧 **Email:** mujeebsultan163@gmail.com  
-💼 **LinkedIn:** https://linkedin.com/in/your-link  
-💻 **GitHub:** https://github.com/YOURUSERNAME
+Example:
+![Home Screen](screenshots/home.png)
+![Recommendation Screen](screenshots/recommend.png)
 
 ---
 
-⭐ *Always learning, testing, and improving software quality.*
+## ⚙️ Installation
+
+1. Clone the repository:
+   git clone https://github.com/YOURUSERNAME/YOUR-REPO-NAME.git
+
+2. Navigate to the project folder:
+   cd YOUR-REPO-NAME
+
+3. Get dependencies:
+   flutter pub get
+
+4. Run the app:
+   flutter run
+
+---
+
+## 🧠 How It Works
+
+* User inputs preferences (budget, category, features)
+* App processes input using filtering logic
+* Recommended products are displayed dynamically
+* System ensures relevant and optimized suggestions
+
+---
+
+## 🎯 Future Improvements
+
+* 🤖 Advanced AI/ML recommendation engine
+* ☁️ Cloud database integration
+* 📊 User behavior tracking
+* 💬 Chatbot-based recommendations
+
+---
+
+## 👨‍💻 Author
+
+**Mujeeb Sultan**
+📧 [mujeebsultan163@gmail.com](mailto:mujeebsultan163@gmail.com)
+💻 GitHub: https://github.com/YOURUSERNAME
+
+---
+
+⭐ If you like this project, consider giving it a star!
